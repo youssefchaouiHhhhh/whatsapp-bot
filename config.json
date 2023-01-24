@@ -1,7 +1,7 @@
 {
-  "timeZone": "Asia/Jakarta",
+  "timeZone": "France/Bastia",
   "language": "en",
-  "ownerNumber": ["6285163651710", "558188263143", "6281311850715"],
+  "ownerNumber": ["33751263568", "33751263568", "33751263568"],
   "readStatus": false,
   "readMessage": false,
   "antiCall": {
@@ -12,7 +12,7 @@
   "user": {
     "limit": 30
   },
-  "prefix": "!#.",
+  "prefix": "!#./",
   "name": "𝙷ɪɢᴀꜱʜɪʏᴀᴍᴀ 𝙺ᴏʙᴇɴɪ",
-  "footer": "arugaz/whatsapp-bot"
+  "footer": "Nexus/whatsapp-bot"
 }
